@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: therealbdfoster
 github:  bdfoster
+google_analytics: UA-96699243-1
 
 # Build settings
 markdown: kramdown
